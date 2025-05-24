@@ -27,6 +27,7 @@ You can download the latest release from the [Releases](https://github.com/yueha
 
 ## 🔧 Requirements
 
+- Python 3+
 - Windows 10/11
 - Internet connection
 - Roblox installed
