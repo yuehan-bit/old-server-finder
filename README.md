@@ -1,6 +1,6 @@
 # Grow a Garden - Old Server Finder
 
-A lightweight `.exe` tool designed to find and connect to **old servers** of the Roblox game [Grow a Garden](https://www.roblox.com/games/). This can be useful for players looking to revisit slower-paced or nostalgic game states, or to avoid crowded, chaotic servers.
+A lightweight `.exe` tool designed to find and connect to **old servers** of the Roblox game [Grow a Garden](https://www.roblox.com/games/126884695634066/Grow-a-Garden). This can be useful for players looking to revisit slower-paced or nostalgic game states, or to avoid crowded, chaotic servers.
 
 ## 🧩 Features
 
