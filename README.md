@@ -11,13 +11,13 @@ A lightweight `.exe` tool designed to find and connect to **old servers** of the
 
 ## 📦 Download
 
-You can download the latest release from the [Releases](https://github.com/yuehan-bit/old-server-finder/releases/tag/old-server-finder) page.
+You can download the latest release from the [Releases](https://github.com/yuehan-bit/old-server-finder/releases) page.
 
 > ⚠️ Windows only (.exe) — macOS and Linux users can use compatibility layers like Wine.
 
 ## 🚀 How to Use
 
-1. Download the `.exe` from the [Releases](https://github.com/yuehan-bit/old-server-finder/releases/tag/old-server-finder) section.
+1. Download the `.exe` from the [Releases](https://github.com/yuehan-bit/old-server-finder/releases) section.
 2. Run the `.exe` (no installation needed).
 3. Enter a few filters like:
    - Max players
