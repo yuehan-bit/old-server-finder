@@ -3,7 +3,6 @@
 A lightweight `.exe` tool designed to find and connect to **old servers** of any Roblox game. This can be useful for players looking to revisit slower-paced or nostalgic game states, or to avoid crowded, chaotic servers.
 
 ## 🧩 Features
-
 - 🔎 Scans public server list of the "selected game (make sure to put the game id)"
 - ⚙️ Lightweight executable with no installation required
 - 🔒 Does not require login or access to your Roblox account
